@@ -11,8 +11,8 @@ import java.util.Random;
 import static io.restassured.RestAssured.given;
 
 public class BaseTest{
-    String apiKey="5a5e27db7b5a73fdc08b4ea30026650d";
-    String token="098a7f769ca1f4eae6294b655e9a25e20be0a05d82a2c6fb44ee9e6e2bdd2c52";
+    String apiKey="5a5e27db7b5a73fdc08b4ea300d18c26650d";
+    String token="098a7f769ca1f4eae6294b655e9a25e20da13be0a05d82a2c6fb44ee9e6e2bdd2c52";
 
     @Before
     public void Setup()
