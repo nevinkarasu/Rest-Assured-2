@@ -1,3 +1,8 @@
-# Project exclude paths
-/target/
-/.idea/
+  
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+.gauge
+reports
+logs
+target
